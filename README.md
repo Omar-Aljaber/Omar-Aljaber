@@ -21,7 +21,9 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/omar-aljaber-2b425b229/" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Aljaber-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Omar_aljaber" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Aljaber-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://wa.me/4917684039309" target="_blank">
+  <img src="https://img.shields.io/badge/-Omar%20Aljaber-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
